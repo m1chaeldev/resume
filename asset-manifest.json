@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.86366acb.css",
-    "main.js": "/resume/static/js/main.e003cf5c.js",
+    "main.js": "/resume/static/js/main.46973855.js",
     "static/media/my-portrait.png": "/resume/static/media/my-portrait.a0784c9daa9d0728e04b.png",
     "static/media/deliveree.png": "/resume/static/media/deliveree.b62352935546adc349a0.png",
     "static/media/redux.png": "/resume/static/media/redux.1b4bb5fceb01b19da59d.png",
@@ -13,12 +13,14 @@
     "static/media/react.png": "/resume/static/media/react.283bf42c605cfc49cf49.png",
     "static/media/google-map.png": "/resume/static/media/google-map.9cd98cdf6cc619102a9b.png",
     "static/media/typescript.png": "/resume/static/media/typescript.8e08c2165d60d7ca62a9.png",
+    "static/media/shopify.webp": "/resume/static/media/shopify.0502bc24a5a3dd9c7625.webp",
     "static/media/antd.png": "/resume/static/media/antd.adc2675b469c31a6cd42.png",
     "static/media/nodejs.webp": "/resume/static/media/nodejs.80b714e928ee376160b5.webp",
+    "static/media/postman.webp": "/resume/static/media/postman.7066eb08ea17b7fe2069.webp",
     "index.html": "/resume/index.html"
   },
   "entrypoints": [
     "static/css/main.86366acb.css",
-    "static/js/main.e003cf5c.js"
+    "static/js/main.46973855.js"
   ]
 }
