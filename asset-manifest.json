@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume/static/css/main.86366acb.css",
-    "main.js": "/resume/static/js/main.318c479b.js",
+    "main.js": "/resume/static/js/main.26769f0a.js",
     "static/media/my-portrait.png": "/resume/static/media/my-portrait.a9fa9ef4654eb9506bc1.png",
     "static/media/deliveree.png": "/resume/static/media/deliveree.b62352935546adc349a0.png",
     "static/media/redux.png": "/resume/static/media/redux.1b4bb5fceb01b19da59d.png",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.86366acb.css",
-    "static/js/main.318c479b.js"
+    "static/js/main.26769f0a.js"
   ]
 }
